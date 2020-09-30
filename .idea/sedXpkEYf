@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54588750-b327-44c2-96a7-7d825aa148e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectId" id="1hwFMmGjzRgOkp2YWhQoXlmcEq7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CourseSectionTest.toString__Create_Course_Section__String_Is_Correct">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IA04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in IA04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IA04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseSectionTest.getCount__No_Action__Count_Is_Thrjee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IA04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourseSectionTest" />
+      <option name="METHOD_NAME" value="getCount__No_Action__Count_Is_Thrjee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseSectionTest.toString__Create_Course_Section__String_Is_Correct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IA04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourseSectionTest" />
+      <option name="METHOD_NAME" value="toString__Create_Course_Section__String_Is_Correct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.toString__Pass_Student__String_Is_Correct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IA04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentTest" />
+      <option name="METHOD_NAME" value="toString__Pass_Student__String_Is_Correct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.StudentTest.toString__Pass_Student__String_Is_Correct" />
+      <item itemvalue="JUnit.CourseSectionTest.getCount__No_Action__Count_Is_Thrjee" />
+      <item itemvalue="JUnit.All in IA04" />
+      <item itemvalue="JUnit.CourseSectionTest.toString__Create_Course_Section__String_Is_Correct" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CourseSectionTest.toString__Create_Course_Section__String_Is_Correct" />
+        <item itemvalue="JUnit.All in IA04" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StudentTest.toString__Pass_Student__String_Is_Correct" />
+        <item itemvalue="JUnit.CourseSectionTest.getCount__No_Action__Count_Is_Thrjee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54588750-b327-44c2-96a7-7d825aa148e4" name="Default Changelist" comment="" />
+      <created>1569387918292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569387918292</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1637" height="470" key="GridCell.Tab.0.bottom" timestamp="1600916060226">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="470" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1600916060226" />
+    <state width="1637" height="470" key="GridCell.Tab.0.center" timestamp="1600916060226">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="470" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1600916060226" />
+    <state width="1637" height="470" key="GridCell.Tab.0.left" timestamp="1600916060226">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="470" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1600916060226" />
+    <state width="1637" height="470" key="GridCell.Tab.0.right" timestamp="1600916060226">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="470" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1600916060226" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IA04</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10714286" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
